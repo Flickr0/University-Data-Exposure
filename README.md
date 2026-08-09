@@ -1,4 +1,4 @@
-# Unauthenticated Access to Sensitive Academic and Personnel Data
+# Unauthenticated Access to Sensitive Academic and Personnel Data at Al-Azhar University
 
 **Severity:** Critical
 **Discovery Date:** 2026-08-06
