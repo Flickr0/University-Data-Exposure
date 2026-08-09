@@ -101,17 +101,6 @@ Three screenshots are referenced as evidence demonstrating the exposed data-fiel
 - **Privileges Required:** None Observed
 - **User Interaction:** None Observed
 
-## Remediation
-
-- Require server-side authentication for all dashboard endpoints.
-- Enforce authorization on every API, table, chart, filter, export, and download operation.
-- Prevent direct access through manually supplied parameters.
-- Remove verbose parameter disclosure from production errors.
-- Review related APIs/endpoints for the same authorization weakness.
-- Audit access logs for unauthorized access.
-- Minimize sensitive fields returned to clients and exports.
-- Add automated authorization tests for all sensitive endpoints.
-
 ## Disclosure Note
 
 This public report intentionally excludes the target identity, exact URLs, parameters, personal records, exported datasets, and bulk-download procedures because the vulnerability remains unresolved. The purpose of this repository is to document the security issue and demonstrate the categories of exposed information without increasing risk to affected individuals.
