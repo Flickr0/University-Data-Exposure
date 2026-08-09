@@ -2,7 +2,7 @@
 
 **Severity:** Critical
 **Discovery Date:** 2026-08-06
-**Status:** Unresolved
+**Status:** Resolved
 **Researcher Identity:** Withheld
 
 ## Executive Summary
@@ -75,7 +75,7 @@ Unauthenticated exposure of fields such as National ID, email address, mobile nu
 4. Supplying the required parameter(s) allows the relevant dashboard functionality to render.
 5. Sensitive data fields become accessible.
 
-> The exact target, URL, endpoint, parameters, requests, and extraction procedures are intentionally withheld because the vulnerability remains unresolved.
+> The exact target, URL, endpoint, parameters, requests, and extraction procedures are intentionally withheld.
 
 ## Evidence
 
@@ -103,4 +103,4 @@ Three screenshots are referenced as evidence demonstrating the exposed data-fiel
 
 ## Disclosure Note
 
-This public report intentionally excludes the target identity, exact URLs, parameters, personal records, exported datasets, and bulk-download procedures because the vulnerability remains unresolved. The purpose of this repository is to document the security issue and demonstrate the categories of exposed information without increasing risk to affected individuals.
+This public report intentionally excludes the target identity, exact URLs, parameters, personal records, exported datasets, and bulk-download procedures. The purpose of this repository is to document the security issue and demonstrate the categories of exposed information. The vulnerability has been resolved.
