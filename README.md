@@ -81,11 +81,17 @@ Unauthenticated exposure of fields such as National ID, email address, mobile nu
 
 Three screenshots are referenced as evidence demonstrating the exposed data-field structure. No personal records visible in the screenshots are reproduced in this report.
 
-| # | File | Description |
-|---|------|-------------|
-| 1 | `evidence/evidence_01_staff_fields.png` | Faculty/staff identity and employment-related fields. |
-| 2 | `evidence/evidence_02_staff_contact_fields.png` | Sensitive staff/contact-related fields. |
-| 3 | `evidence/evidence_03_student_fields.png` | Student identity and academic-related fields. |
+### Evidence 1 — Faculty/staff identity and employment-related fields
+
+![Evidence 1](evidence/evidence_01_staff_fields.png)
+
+### Evidence 2 — Sensitive staff/contact-related fields
+
+![Evidence 2](evidence/evidence_02_staff_contact_fields.png)
+
+### Evidence 3 — Student identity and academic-related fields
+
+![Evidence 3](evidence/evidence_03_student_fields.png)
 
 ## Security Classification
 
