@@ -4,10 +4,11 @@
 **Discovery Date:** 2026-08-06
 **Status:** Resolved
 **Researcher Identity:** Withheld
+**Affected Organization:** Al-Azhar University
 
 ## Executive Summary
 
-A web-based academic/administrative dashboard was discovered to be accessible without an authenticated session. The exposed functionality provides access to sensitive student and faculty/staff information.
+A web-based academic/administrative dashboard belonging to Al-Azhar University was discovered to be accessible without an authenticated session. The exposed functionality provides access to sensitive student and faculty/staff information.
 
 The application also discloses required parameter names when expected parameters are omitted. Supplying the required parameter(s) allows the relevant dashboard functionality to render. This constitutes an authentication/access-control failure that permits unauthenticated access to sensitive data.
 
@@ -103,4 +104,4 @@ Three screenshots are referenced as evidence demonstrating the exposed data-fiel
 
 ## Disclosure Note
 
-This public report intentionally excludes the target identity, exact URLs, parameters, personal records, exported datasets, and bulk-download procedures. The purpose of this repository is to document the security issue and demonstrate the categories of exposed information. The vulnerability has been resolved.
+This public report intentionally excludes exact URLs, parameters, personal records, exported datasets, and bulk-download procedures. The purpose of this repository is to document the security issue and demonstrate the categories of exposed information. The vulnerability has been resolved.
