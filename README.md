@@ -85,7 +85,7 @@ Three screenshots are referenced as evidence demonstrating the exposed data-fiel
 
 ![Evidence 1](evidence/evidence_01_staff_fields.png)
 
-### Evidence 2 — Sensitive staff/contact-related fields
+### Evidence 2 — General dashboard statistics and complete general information
 
 ![Evidence 2](evidence/evidence_02_staff_contact_fields.png)
 
