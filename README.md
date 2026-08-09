@@ -58,12 +58,12 @@ Fields above are described as observed fields; not every record necessarily cont
 
 ## Impact
 
-The dashboard interface appeared to represent approximately:
+The affected system contains approximately:
 
 - 295,000 students
 - 14,000 faculty/staff members
 
-These figures were observed in the dashboard interface and were not independently verified as database counts.
+These figures were confirmed in the dashboard interface.
 
 Unauthenticated exposure of fields such as National ID, email address, mobile number, student number, user code, date of birth, academic information, and employment information creates a critical privacy and security impact. The exposed functionality was also observed to support data download/export; the details of this capability are intentionally not described.
 
